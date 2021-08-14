@@ -1,1 +1,1 @@
-m
+print("My computer")
